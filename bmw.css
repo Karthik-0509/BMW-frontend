@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    height: 100vh;
+    width: 1525;
+    background-image: url("https://bmw.scene7.com/is/image/BMW/G70_banner:16to7?fmt=webp&amp;wid=2560&amp;fit=wrap%2C+1");
+}
+nav{
+    height: 80px;
+    width: 1525px;
+    background-color:transparent ;
+    display: flex;
+    align-items: center;
+    
+    
+}
+#bmw{
+    height: 70px;
+    width: 70px;
+    margin-left: 70px;
+}
+#box1{
+    height: 80px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    /* align-items: center; */
+    color: white;
+}
+#box2{
+    height:80px ;
+    width: 200px;
+    align-items: center;
+    display: flex;
+    margin-left: 500px;
+    justify-content: space-evenly;
+}
+#hr1{
+    margin-left: 70px;
+    margin-right: 90px;
+}
+h1{
+    color: white;
+    font-size: 20px;
+    font-weight: 200;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    margin-top: 50PX;
+    margin-left: 70px;
+}
+#para1{
+    font-size: 200px;
+    color: white;
+    font-weight: 100;
+    margin-left: 70px;
+    
+}
+#para2{
+    color: white;
+    margin-left: 70px;
+    font-size: 20px;
+}
+#para3{
+    color: white;
+    margin-left: 70px;
+}
+button{
+    background-color: black;
+    color: white;
+    margin-left: 70px;
+    width: 150px;
+    border: 1px solid white;
+    height: 30px;
+    margin-top: 10px;
+}
+#head1{
+    font-size: 50px;
+    font-weight: 100;
+    margin-left: 600px;
+    margin-top: 20px;
+    letter-spacing: 5px;
+}
+#box3{
+    height: 300px;
+    width: 1200px;
+    /* background-color: red; */
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#car{
+    font-size: 100px;
+    color: black;
+    
+}
+#paracar{
+    font-size: 20px;
+}
+#carb{
+    background-color: white;
+    color: black;
+    margin-left: 5px;
+    border: 1px solid black;
+}
+#box4{
+    height: 500px;
+    width: 1500px;
+    background-image: url("https://bmw.scene7.com/is/image/BMW/colorswitch:3to1?fmt=webp&amp;wid=2560&amp;fit=wrap%2C+1");
+    background-size: contain;
+    background-color: transparent;
+
+}
+#parab4{
+    color: white;
+    font-size: 30px;
+    font-weight:100;
+    margin-left: 100px;
+    padding-top: 150px;
+}
+#parab41{
+    color: white;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+#parab42{
+    color: white;
+    margin-left: 100px;
+
+
+}
+#b4{
+    background-color: transparent;
+    width: 250px;
+    margin-left: 100px;
+}
+#box5{
+    height: 500px;
+    width: 1500px;
+    background-size: contain;
+    margin-top: 50px;
+    background-image: url("https://bmw.scene7.com/is/image/BMW/Homepage_x1_Desk_new:3to1?fmt=webp&amp;wid=2560&amp;fit=wrap%2C+1");
+}
+#box6{
+    height: 500px;
+    width: 1500px;
+    background-size: contain;
+    margin-top: 50px;
+    background-image: url("https://bmw.scene7.com/is/image/BMW/banner-x6-m60i:3to1?fmt=webp&amp;wid=2560&amp;fit=wrap%2C+1");
+}
+#box7{
+    height: 500px;
+    width: 700px;
+    margin-top: 50px;
+    background-image: url("https://bmw.scene7.com/is/image/BMW/5series-specialoffers:3to2?fmt=webp&amp;wid=890&amp;fit=wrap%2C+1");
+    background-size: cover;
+    margin-left: 50px;
+}
+#box71{
+    height: 500px;
+    width: 400px;
+    /* background-color:red; */
+    margin-left: 750px;
+
+}
+#parab7{
+    padding-top: 200px;
+    font-size: 40px;
+    font-weight: lighter;
+
+}
+#parab71{
+    margin-top: 10px;
+}
+#parab72{
+    margin-top: 20px;
+}
+/* #box8{
+    height: 1000px;
+    width: 1500px;
+    background-color: rgb(236, 233, 233);
+    margin-top: 80px;
+    display: flex;
+} */
+#box9{
+    height: 100px;
+    width: 1500px;
+    background-color: rgb(236, 233, 233);
+    display: flex;
+    margin-top: 80px;
+}
+#img9{
+    height: 50px;
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+#para9{
+    margin-left: 20px;
+    margin-top: 30px;
+    
+}
+span{
+    font-size: 20px;
+}
+hr{
+    color: black;
+    width: 1500px;
+}
+#box10{
+    height: 600px;
+    width: 1500px;
+    background-color:rgb(236, 233, 233);
+    display: flex;
+    justify-content: space-evenly;
+}
+#parabo1{
+    margin-left: 50px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+.parabo2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#parabo3{
+    margin-top: 80px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.parabo4{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#box12{
+    height: 50px;
+    width: 250px;
+    /* background-color: black; */
+    margin-top: 550px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#box13{
+    height: 100px;
+    width: 1500px;
+    background-color: rgb(236, 233, 233);
+    display: flex;
+    /* justify-content:space-evenly ; */
+}
+.para13{
+    margin-top: 20px;
+    margin-left: 20px;
+}
